@@ -7,3 +7,6 @@ CVE-2019-1367 | Scripting Engine Memory Corruption Vulnerability Workaround
 
 #### pdfToImg
 Convert `.pdf` files to images.
+
+#### outlookSignatures
+Tool for easier Outlook email signatures management.
